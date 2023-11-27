@@ -67,7 +67,7 @@ int main()
             }
             else
             {
-                cout<<"The moon is beautiful isn't it?";
+                cout<<"Exiting the game. Goodbye!";
                 break;
             }
     }
